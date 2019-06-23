@@ -1,6 +1,6 @@
 ## Genny Allcroft
 
-I understand complex tax technical issues and provide large multi-national clients with clear and practical advice. Having gained a First Class Masters degree in Chemistry from the University of Oxford, I started working at Deloitte five years ago and am an Associate Director (and a Chartered Tax Advisor) in the indirect tax team. I recognise the importance of technology to automate and simplify complex tax issues for clients and am excited to improve my software development skills so I can lead indirect tax technology projects for clients.
+I advise large multi-national clients on complex tax technical issues in a clear and practical way. Having gained a First Class Masters degree in Chemistry from the University of Oxford, I started working at Deloitte five years ago and am an Associate Director (and a Chartered Tax Advisor) in the indirect tax team. I recognise the importance of technology to automate and simplify complex tax issues for clients and am excited to improve my software development skills so I can lead indirect tax technology projects for clients.
 
 ## Skills
 
